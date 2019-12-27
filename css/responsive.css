@@ -69,7 +69,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #journal .highlight-block .highlight-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -140,7 +140,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #journal .highlight-block .highlight-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -211,7 +211,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #journal .highlight-block .highlight-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -281,7 +281,7 @@
     margin: 20px;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #journal .highlight-block .highlight-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -351,7 +351,7 @@
     margin: 20px;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #journal .highlight-block .highlight-info {
     margin-bottom: 30px;
   }
   /* Contact */
