@@ -1,12 +1,10 @@
 
 /*
-  Theme Name: Folio
-  Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-  Author: BootstrapMade.com
-  Author URL: https://bootstrapmade.com
+  Author: Kim Tablac
+Hello, Meg meg!
 */
 
-/*  General Styling
+/* 
 /*-----------------------------------------------------------------------------------*/
 
 body {
@@ -465,26 +463,26 @@ nav ul li a {
   padding-bottom: 30px;
 }
 
-#journal .journal-block {
+#journal .highlight-block {
   display: inline-block;
   height: auto;
   width: 100%;
 }
 
-#journal .journal-block .journal-info {
+#journal .highlight-block .highlight-info {
   position: relative;
 }
 
-.journal-block .journal-info img {
+.highlight-block .highlight-info img {
   max-width: 100%;
 }
 
-.journal-block .journal-info .journal-txt {
+.highlight-block .highlight-info .highlight-txt {
   padding: 25px 0px;
   position: relative;
 }
 
-.journal-block .journal-info .journal-txt h4 a {
+.highlight-block .highlight-info .highlight-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -498,7 +496,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt h4 a:hover {
+.highlight-block .highlight-info .highlight-txt h4 a:hover {
   color: #b8a07e;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -507,7 +505,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt p {
+.highlight-block .highlight-info .highlight-txt p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
