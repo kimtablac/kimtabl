@@ -627,3 +627,10 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+.btn {
+    font-size: 12px;
+}
+
+.btn:hover {
+    background-color: #FFC133;
+}
